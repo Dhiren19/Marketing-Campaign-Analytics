@@ -39,6 +39,15 @@ Compares campaign effectiveness by analyzing revenue, purchases, and conversion 
 Explores how customer demographics such as city, income bracket, and age group influence campaign performance.
 
 ---
+## Business Questions Solved
+
+- Which marketing channel generates the highest revenue?
+- Which campaigns achieve the best conversion rates?
+- Which customer segments respond most to marketing campaigns?
+- Which cities produce the most revenue from campaigns?
+- Which age group converts the most?
+
+---
 
 ## Key Insights
 - Email campaigns generated the highest total revenue.
