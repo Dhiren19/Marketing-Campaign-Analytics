@@ -63,3 +63,12 @@ Explores how customer demographics such as city, income bracket, and age group i
 - The Personal Loan campaign achieved the highest conversion rate.
 - High-income customers contributed the largest share of revenue.
 - Younger customers showed stronger responsiveness to marketing campaigns.
+
+---
+
+## Recommendations
+
+- Increase investment in Email campaigns since they generate the highest overall revenue.
+- Optimize SMS campaigns as they show the strongest conversion rates.
+- Target high-income customers more aggressively since they contribute the largest share of campaign revenue.
+- Consider designing campaigns specifically for younger audiences who show higher engagement.
