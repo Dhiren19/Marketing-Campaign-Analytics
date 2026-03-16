@@ -9,6 +9,13 @@ The analysis combines data cleaning, SQL-based exploration, and an interactive P
 
 ---
 
+## Business Problem
+Marketing teams run multiple campaigns across different channels, but it is often unclear which channels and customer segments generate the highest revenue and engagement.
+
+The objective of this analysis is to evaluate campaign performance and identify the channels, campaigns, and customer groups that drive the most conversions and revenue.
+
+---
+
 ## Dataset
 The analysis uses three datasets:
 
