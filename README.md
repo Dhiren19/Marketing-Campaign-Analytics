@@ -1,5 +1,7 @@
 # Marketing Campaign Analytics Dashboard
 
+**This project is part of my data analytics portfolio where I practice solving business problems using Excel, SQL, and Power BI.**
+
 ## Project Overview
 This project analyzes the performance of digital marketing campaigns across multiple channels such as Email, SMS, and Push notifications. The goal was to understand which campaigns and customer segments generate the most engagement, conversions, and revenue.
 
